@@ -8,7 +8,17 @@ Vehicles are becoming more smarter and autonomous with the rapid growth in Autom
 ## Architecture Diagram
 
 <p align="center">
-  <img src="images/Architecture.png" alt="Vaahan-Architecture" width=""/>
+  <img src="Assets/images/Architecture.png" alt="Vaahan-Architecture" width="640"/>
+</p>
+
+## Usescase - Timeline Diagram
+
+<p align="center">
+  <img src="Assets/images/registration_flow.png" alt="Vaahan-Architecture" width="600"/>
+</p>
+
+<p align="center">
+  <img src="Assets/images/trans.png" alt="Vaahan-Architecture" width="600"/>
 </p>
 
 ## Acknowledgement
